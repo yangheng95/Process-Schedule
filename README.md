@@ -4,3 +4,5 @@
 本科期间课程设计之一
 
 # ![.fig](figs/main.png)
+
+![process-info](https://user-images.githubusercontent.com/51735130/126753158-586949d4-3b72-49d7-adb7-5e446026fbbd.png)
